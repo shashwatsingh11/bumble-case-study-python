@@ -42,5 +42,5 @@ The dataset consists of **user profile records**, where each row represents an i
 
 ## Project Resources
 
-- **Notebook:** [View Analysis Notebook](notebook/Case_Study_Analyzing_Bumble_Profiles.ipynb)  
+- **Notebook:** [View Analysis Notebook](script/Case_Study_Analyzing_Bumble_Profiles.ipynb)  
 - **Dataset:** [Download Dataset](data/bumble.csv)
